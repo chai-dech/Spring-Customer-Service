@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CustomerServiceApplication {
 
 	public static void main(String[] args) {
-		System.out.println("added for testing");
 		SpringApplication.run(CustomerServiceApplication.class, args);
 	}
 
